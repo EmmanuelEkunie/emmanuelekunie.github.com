@@ -1,0 +1,25 @@
+body{
+   background-image: url(background.jpg);
+   font-size: 2rem;
+   background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container{
+    text-align: center;
+    padding-top: 200px;
+    color: blanchedalmond;
+    font-weight: 700;
+}
+
+.redio{
+    border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ee4b08;
+}
+.redio:hover{
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 5px;
+    cursor: pointer;
+}
